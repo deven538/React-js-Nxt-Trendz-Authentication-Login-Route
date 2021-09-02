@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-edit {
+  width: 120px;
+  margin-top: 140px;
+}
